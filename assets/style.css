@@ -3,13 +3,20 @@
     --secondary-color: #630330;
 }
 
+header{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
 .cube-1 {
     display: flex;
-    border: 10px solid;
+    border: 10px solid turquoise;
 }
 
 img {
-    position: sticky;
+    margin-right: auto;
 }
 
 h2 {
@@ -33,6 +40,6 @@ footer {
 
 }
 
-.box.3 {
+.box-3 {
 
 }
