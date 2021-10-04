@@ -1,0 +1,38 @@
+:root {
+    --primary-color: #702963;
+    --secondary-color: #630330;
+}
+
+.cube-1 {
+    display: flex;
+    border: 10px solid;
+}
+
+img {
+    position: sticky;
+}
+
+h2 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.explain {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.box-1 {
+
+}
+
+.box-2 {
+
+}
+
+.box.3 {
+
+}
